@@ -73,12 +73,12 @@ Used for:
 ### Executive Overview
 ![Executive Overview](assets/screenshots/executive-overview.png)
 
-*Caption: Executive summary dashboard highlighting revenue performance, order volume, AOV, review score, delivery time, customer count, product category revenue, payment mix, and Brazil sales distribution.*
+*Executive dashboard summary.*
 
 ### Customer Intelligence & RFM Analysis
 ![Customer Intelligence & RFM Analysis](assets/screenshots/customer-intelligence-rfm.png)
 
-*Caption: Customer segmentation dashboard showing RFM heatmap, segment breakdown, top customer states, acquisition trend, revenue contribution by segment, and key action insights.*
+*Customer segmentation and RFM analysis dashboard.*
 
 ---
 
