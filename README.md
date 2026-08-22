@@ -72,7 +72,12 @@ Used for:
 
 
 ![Executive Overview](assets/screenshots/executive-overview.png)
+
+*Executive overview dashboard.*
+
 ![Customer Intelligence & RFM Analysis](assets/screenshots/customer-intelligence-rfm-analysis.png)
+
+*RFM segmentation dashboard.*
 
 ---
 
