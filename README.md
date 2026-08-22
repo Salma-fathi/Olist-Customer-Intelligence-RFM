@@ -68,17 +68,28 @@ Used for:
 
 ---
 
-## 📊 Dashboard Screenshots (Placeholder)
+## 📊 Dashboard Screenshots
 
-> Add your dashboard screenshots here after publishing visuals.
+### Executive Overview
+![Executive Overview](assets/screenshots/executive-overview.png)
 
-Recommended assets to include:
-- Executive overview page
-- Cohort retention trend view
-- **Interactive 5x5 Matrix Heatmap** for RFM segmentation (required highlight)
-- Regional/order fulfillment insights (e.g., SP performance)
+Highlights:
+- Total revenue, orders, AOV, review score, delivery days, and total customers
+- Revenue trend over time
+- Top product categories by revenue
+- Revenue by payment method
+- Brazil revenue distribution map
 
-`
+### Customer Intelligence & RFM Analysis
+![Customer Intelligence & RFM Analysis](assets/screenshots/customer-intelligence-rfm.png)
+
+Highlights:
+- Customer segmentation breakdown
+- Top customer locations by state
+- RFM matrix heatmap
+- Monthly acquisition trend
+- Revenue contribution by customer segment
+- Key business insights and action recommendations
 
 ---
 
