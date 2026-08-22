@@ -78,10 +78,7 @@ Recommended assets to include:
 - **Interactive 5x5 Matrix Heatmap** for RFM segmentation (required highlight)
 - Regional/order fulfillment insights (e.g., SP performance)
 
-Example placeholder paths:
-- `assets/screenshots/executive-overview.png`
-- `assets/screenshots/cohort-retention.png`
-- `assets/screenshots/rfm-5x5-matrix-heatmap.png`
+`
 
 ---
 
@@ -94,7 +91,6 @@ Olist-Customer-Intelligence-RFM/
 ├── .gitignore
 ├── SQL/                         # SQL scripts (queries, views, transformations)
 ├── powerbi/                     # Power BI files (.pbix) and related assets
-├── data/                        # Optional local raw/processed data (ignored in git)
 └── assets/
     └── screenshots/             # Dashboard image exports for documentation
 ```
