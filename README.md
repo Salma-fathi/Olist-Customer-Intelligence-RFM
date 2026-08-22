@@ -69,13 +69,11 @@ Used for:
 ---
 
 ## 📊 Dashboard Screenshots
-
-
-![Executive Overview](assets/screenshots/executive-overview.png)
+![Executive Overview](assets/screenshots/Executive%20Overview.PNG)
 
 *Executive overview dashboard.*
 
-![Customer Intelligence & RFM Analysis](assets/screenshots/customer-intelligence-rfm-analysis.png)
+![Customer Intelligence & RFM Analysis](assets/screenshots/Customer%20Intelligence%20%26%20RFM%20Analysis.PNG)
 
 *RFM segmentation dashboard.*
 
