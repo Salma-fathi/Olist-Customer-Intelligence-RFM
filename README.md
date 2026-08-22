@@ -110,4 +110,6 @@ This is a portfolio project, but feedback and suggestions are welcome via Issues
 
 ## 📄 License
 
-You can add a license (e.g., MIT) if you want others to reuse parts of this project.
+## 📄 License
+
+This project is licensed under the MIT License.
