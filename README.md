@@ -70,15 +70,9 @@ Used for:
 
 ## 📊 Dashboard Screenshots
 
-### Executive Overview
+
 ![Executive Overview](assets/screenshots/executive-overview.png)
-
-*Executive overview dashboard.*
-
-### Customer Intelligence & RFM Analysis
-![Customer Intelligence & RFM Analysis](assets/screenshots/customer-intelligence-rfm.png)
-
-*RFM segmentation dashboard.*
+![Customer Intelligence & RFM Analysis](assets/screenshots/customer-intelligence-rfm-analysis.png)
 
 ---
 
