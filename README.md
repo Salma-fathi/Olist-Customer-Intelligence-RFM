@@ -102,11 +102,6 @@ Olist-Customer-Intelligence-RFM/
 
 ---
 
-## 🤝 Contributions
-
-This is a portfolio project, but feedback and suggestions are welcome via Issues or Pull Requests.
-
----
 
 ## 📄 License
 
