@@ -68,17 +68,17 @@ Used for:
 
 ---
 
-## 📊 Dashboard Screenshots (Placeholder)
+## 📊 Dashboard Screenshots
 
-> Add your dashboard screenshots here after publishing visuals.
+### Executive Overview
+![Executive Overview](assets/screenshots/executive-overview.png)
 
-Recommended assets to include:
-- Executive overview page
-- Cohort retention trend view
-- **Interactive 5x5 Matrix Heatmap** for RFM segmentation (required highlight)
-- Regional/order fulfillment insights (e.g., SP performance)
+*Executive dashboard summary.*
 
-`
+### Customer Intelligence & RFM Analysis
+![Customer Intelligence & RFM Analysis](assets/screenshots/customer-intelligence-rfm.png)
+
+*Customer segmentation and RFM analysis dashboard.*
 
 ---
 
