@@ -1,0 +1,84 @@
+# ==============================
+# OS / Editor
+# ==============================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# ==============================
+# Python / Notebook (if used)
+# ==============================
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ==============================
+# Data files (large/local)
+# ==============================
+data/
+datasets/
+raw_data/
+processed_data/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.sqlite
+*.db
+
+# Keep placeholders if needed
+!data/.gitkeep
+!datasets/.gitkeep
+!raw_data/.gitkeep
+!processed_data/.gitkeep
+
+# ==============================
+# Secrets / Credentials
+# ==============================
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials/
+config.local.*
+service-account*.json
+
+# ==============================
+# Logs / temp
+# ==============================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+
+# ==============================
+# Power BI / BI temp artifacts
+# ==============================
+*.pbix.autorecovery
+*.pbix.tmp
+*.pbit.tmp
+*.abf
+*.DataMashup
+*.cache
+
+# Optional: uncomment if you don't want to version PBIX binaries
+# *.pbix
+
+# ==============================
+# Archives
+# ==============================
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
