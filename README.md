@@ -73,23 +73,12 @@ Used for:
 ### Executive Overview
 ![Executive Overview](assets/screenshots/executive-overview.png)
 
-Highlights:
-- Total revenue, orders, AOV, review score, delivery days, and total customers
-- Revenue trend over time
-- Top product categories by revenue
-- Revenue by payment method
-- Brazil revenue distribution map
+*Caption: Executive summary dashboard highlighting revenue performance, order volume, AOV, review score, delivery time, customer count, product category revenue, payment mix, and Brazil sales distribution.*
 
 ### Customer Intelligence & RFM Analysis
 ![Customer Intelligence & RFM Analysis](assets/screenshots/customer-intelligence-rfm.png)
 
-Highlights:
-- Customer segmentation breakdown
-- Top customer locations by state
-- RFM matrix heatmap
-- Monthly acquisition trend
-- Revenue contribution by customer segment
-- Key business insights and action recommendations
+*Caption: Customer segmentation dashboard showing RFM heatmap, segment breakdown, top customer states, acquisition trend, revenue contribution by segment, and key action insights.*
 
 ---
 
