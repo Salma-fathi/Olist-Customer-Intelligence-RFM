@@ -86,8 +86,8 @@ Olist-Customer-Intelligence-RFM/
 │
 ├── README.md
 ├── .gitignore
-├── SQL/                         # SQL scripts (queries, views, transformations)
-├── powerbi/                     # Power BI files (.pbix) and related assets
+├── SQL/                       
+├── powerbi/                      Power BI files (.pbix) and related assets
 └── assets/
     └── screenshots/             # Dashboard image exports for documentation
 ```
@@ -107,8 +107,6 @@ Olist-Customer-Intelligence-RFM/
 This is a portfolio project, but feedback and suggestions are welcome via Issues or Pull Requests.
 
 ---
-
-## 📄 License
 
 ## 📄 License
 
